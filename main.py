@@ -76,4 +76,4 @@ if uploaded_file is not None:
 
     # Footer
     st.markdown("---")
-    st.write("© 2024 [Your Name]. All rights reserved.")
+    st.write("© 2024 Group 7. All rights reserved.")
